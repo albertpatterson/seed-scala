@@ -4,7 +4,7 @@ class SeedSpec extends FunSpec {
 
   describe("Seed") {
     it("runs a test") {
-      assert(1==1)
+      assert(1 === 1, "junk")
     }
   }
 }
